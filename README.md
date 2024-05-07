@@ -6,8 +6,10 @@ This project is an introduction to using Large Language Models (LLM). The notebo
 
 ## Notebook Content
 
-1. **Service Key Introduction:** Explains how to import and manage keys for different services.
-2. **Using Chains:** Discusses how chains can be used to sequence tasks in workflows, facilitate interactions between components, and optimize the management of complex, multifaceted tasks.
+1. **Introduction to Service Keys:** Explains how to import and manage keys for different services.
+2. **Using Strings:** Discusses how strings can be used to sequence tasks in workflows, facilitate interactions between components and optimise the handling of complex tasks.
+3. **Memory Management:** Explains how memory is managed in LLMs to maintain context and improve performance in language processing tasks.
+4. **Specific Tools:** Presents various tools that integrate with LLMs to extend their capabilities and facilitate integration with other platforms and services.
 
 ## Requirements
 
